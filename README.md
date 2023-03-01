@@ -24,3 +24,17 @@ Esse aplicativo foi desenvolvido em React Native, utilizando Expo. Para executar
     npm run start
 
 ```
+
+# Telas
+
+## Tela 1: Welcome
+
+![welcome](https://github.com/jeronimo3875br/petland/blob/master/assets/screens/petland-screen-1.jpeg)
+
+## Tela 2: Home
+
+![welcome](https://github.com/jeronimo3875br/petland/blob/master/assets/screens/petland-screen-2.jpeg)
+
+## Tela 3: Pet view
+
+![welcome](https://github.com/jeronimo3875br/petland/blob/master/assets/screens/petland-screen-3.jpeg)
