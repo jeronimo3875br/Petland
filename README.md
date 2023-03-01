@@ -29,12 +29,12 @@ Esse aplicativo foi desenvolvido em React Native, utilizando Expo. Para executar
 
 ## Tela 1: Welcome
 
-![welcome](https://github.com/jeronimo3875br/petland/blob/master/assets/screens/petland-screen-1.jpeg)
+<img src="https://github.com/jeronimo3875br/petland/blob/master/assets/screens/petland-screen-1.jpeg" width="250" />
 
 ## Tela 2: Home
 
-![welcome](https://github.com/jeronimo3875br/petland/blob/master/assets/screens/petland-screen-2.jpeg)
+<img src="https://github.com/jeronimo3875br/petland/blob/master/assets/screens/perland-screen-2.jpeg" width="250" />
 
 ## Tela 3: Pet view
 
-![welcome](https://github.com/jeronimo3875br/petland/blob/master/assets/screens/petland-screen-3.jpeg)
+<img src="https://github.com/jeronimo3875br/petland/blob/master/assets/screens/petland-screen-3.jpeg" width="250" />
