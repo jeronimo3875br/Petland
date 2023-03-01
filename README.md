@@ -1,12 +1,26 @@
 # Sobre 
 
-Esse projeto se consiste em um template para agilização de processos na hora de iniciar o desenvolvimento de uma nova aplicação em React Native.
+Petland é um aplicativo que permite visualizar animais que estão disponíveis para adoção (sem compra) na sua região.
 
-# O que esse projeto trás de bom?
+# Execução
 
-    - Criação de projeto utilizando Expo
-    - Infraestrutura já montada com descrição e exemplos
-    - Configuração de bibliotecas de animações com Moti e Animatable
-    - Typescript e Eslint configurados 
-    - Bibliotecas de rotas já instaladas e configuradas para uso
-    - Gerenciamento de estado compartilhado já instalado e configurado para uso
+Esse aplicativo foi desenvolvido em React Native, utilizando Expo. Para executar:
+ 
+```bash
+
+    # Instalar todas as bibliotecas
+    npm install
+
+    # Executar em um emulador android
+    npm run android
+
+    # Executar em um emulador ios
+    npm run ios
+
+    # Executar na web
+    npm run web
+
+    # Gerar QRCode e Link para ser acessado atráves do app Expo GO
+    npm run start
+
+```
