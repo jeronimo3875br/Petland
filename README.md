@@ -25,16 +25,10 @@ Esse aplicativo foi desenvolvido em React Native, utilizando Expo. Para executar
 
 ```
 
-# Telas
+# Preview
 
-## Tela 1: Welcome
-
-<img src="https://github.com/jeronimo3875br/petland/blob/master/assets/screens/petland-screen-1.jpeg" width="250" />
-
-## Tela 2: Home
-
-<img src="https://github.com/jeronimo3875br/petland/blob/master/assets/screens/perland-screen-2.jpeg" width="250" />
-
-## Tela 3: Pet view
-
-<img src="https://github.com/jeronimo3875br/petland/blob/master/assets/screens/petland-screen-3.jpeg" width="250" />
+<div>
+ <img src="https://github.com/jeronimo3875br/petland/blob/master/assets/screens/petland-screen-1.jpeg" width="250" />
+ <img src="https://github.com/jeronimo3875br/petland/blob/master/assets/screens/perland-screen-2.jpeg" width="250" />
+ <img src="https://github.com/jeronimo3875br/petland/blob/master/assets/screens/petland-screen-3.jpeg" width="250" />
+</div>
